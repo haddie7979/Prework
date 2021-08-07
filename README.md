@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *TipCalc*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipCalc** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Lindsay Goldberg-Custer**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Changing the background color to make it easier on the eyes.
 
 ## Video Walkthrough
 
