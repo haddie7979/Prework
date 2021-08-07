@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+When opening the iPhone simulator to test the app, it would open and function but back on the main Xcode screen I would get an error code that read "Could not attach to pid" and "lost connection".
 
 ## License
 
