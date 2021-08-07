@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] Changing the background color to make it easier on the eyes.
+- [ ] Adjusting the type of measurements to make the app adjust dynamically to varying screen types (some issues)
 
 ## Video Walkthrough
 
@@ -34,7 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-When opening the iPhone simulator to test the app, it would open and function but back on the main Xcode screen I would get an error code that read "Could not attach to pid" and "lost connection".
+- [ ] When opening the iPhone simulator to test the app, it would open and function but back on the main Xcode screen I would get an error code that read "Could not attach to pid" and "lost connection".
+- [ ] Missing some trailing and leading constraints in my attempt to make the view dynamic. Unclear how to add/remove constraints.
 
 ## License
 
